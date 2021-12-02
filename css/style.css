@@ -1,35 +1,36 @@
 body {
-  background-color: whitesmoke;
+    background-color: whitesmoke;
 }
 
 .title {
-  font-weight: 600;
-  font-size: 3rem;
-  text-align: center;
+    font-weight: 600;
+    font-size: 3rem;
+    text-align: center;
 }
 
 .box {
-  margin-top: 50%;
-  background-color: white;
-  border-width: 0.1rem;
-  border-style: solid;
-  border-color: rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
-  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
+    background-color: white;
+    border-width: 0.1rem;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
 }
 
 .padding {
-  padding: 1rem;
+    padding: 1rem;
 }
 
 .insertion {
-  font-size: 1rem;
-  font-weight: 300;
-  text-align: left;
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: left;
 }
 
 .input-group-text {
-  border-radius: 0.25rem 0rem 0rem 0.25rem;
+    border-radius: 0.25rem 0rem 0rem 0.25rem;
 }
 
-
+.central {
+    margin-top: 18rem;
+}
