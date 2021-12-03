@@ -35,3 +35,8 @@ body {
 .alt{
     padding-top: 10%;
 }
+
+.user {
+    font-size: 1.3rem; 
+    color: currentColor;
+}
