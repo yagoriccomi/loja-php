@@ -1,2 +1,2 @@
-# loja-php
-#Loja teste para o GitHub
+# Repositório Teste
+Loja teste para o GitHub
