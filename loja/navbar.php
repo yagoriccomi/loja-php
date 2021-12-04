@@ -19,7 +19,7 @@
             <i class="bi bi-pen"></i>
             <span class="link_name">Cadastrar</span>
           </a>
-          <i class='bx bxs-chevron-down arrow'></i>
+          <i class="bi bi-caret-down-fill arrow"></i>
         </div>
         <ul class="sub-menu">
           <li><a class="link_name" href="#">Cadastrar</a></li>
@@ -33,7 +33,7 @@
             <i class="bi bi-search"></i>
             <span class="link_name">Pesquisar</span>
           </a>
-          <i class='bx bxs-chevron-down arrow'></i>
+          <i class="bi bi-caret-down-fill arrow"></i>
         </div>
         <ul class="sub-menu">
           <li><a class="link_name" href="#">Pesquisar</a></li>
@@ -47,7 +47,7 @@
             <i class="bi bi-calculator-fill"></i>
             <span class="link_name">Registros</span>
           </a>
-          <i class='bx bxs-chevron-down arrow'></i>
+          <i class="bi bi-caret-down-fill arrow"></i>
         </div>
         <ul class="sub-menu">
           <li><a class="link_name" href="#">Registros</a></li>
