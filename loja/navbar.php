@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<!-- Designined by CodingLab | www.youtube.com/codinglabyt -->
-<html lang="pt-br" dir="ltr">
-
-<head>
-  <meta charset="UTF-8">
-  <title> Página Principal </title>
-  <link rel="stylesheet" href="style.css">
-  <!-- Boxiocns CDN Link -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-<body>
   <div class="sidebar close">
     <div class="logo-details">
       <i class="bi bi-globe"></i>
@@ -86,8 +73,4 @@
       <i class='bx bi-list'></i>
     </div>
   </section>
-  <script src="script.js"></script>
-
-</body>
-
-</html>
+  
