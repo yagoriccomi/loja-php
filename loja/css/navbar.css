@@ -10,10 +10,10 @@
   font-family: "Poppins", sans-serif;
 }
 
-.margin-menu{
+.margin-menu {
   padding-left: 6rem;
-      background-color: brown;
-  }
+  background-color: brown;
+}
 
 .sidebar {
   position: fixed;
