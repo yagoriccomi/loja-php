@@ -26,8 +26,8 @@ __*Markdown*__
 * Markdown
 
 
-- [] Markdown
-- [] Markdown
-- [] Markdown
-- [] Markdown
+- [ ] Markdown
+- [ ] Markdown
+- [ ] Markdown
+- [ ] Markdown
 
