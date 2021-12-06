@@ -1,4 +1,4 @@
-# Repositório Teste
+# Loja
 Loja teste para o GitHub
 
 Mar
