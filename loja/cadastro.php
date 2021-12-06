@@ -71,6 +71,34 @@
                 </div>
               </div>
             </div>
+            <div class="row py-3">
+              <div class="col">
+                <div class="input-group has-validation">
+                  <span class="input-group-text" id="inputGroupPrepend">
+                    <i class="itens bi bi-person-fill"></i>
+                  </span>
+                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" required placeholder="Usuário" />
+                </div>
+              </div>
+              <div class="col">
+                <div class="input-group has-validation">
+                  <span class="input-group-text" id="inputGroupPrepend">
+                    <i class="itens bi bi-lock-fill"></i>
+                  </span>
+                  <input type="password" class="form-control" id="validationCustomUsername"
+                    aria-describedby="inputGroupPrepend" required placeholder="Senha" />
+                </div>
+              </div>
+              <div class="col">
+                <div class="input-group has-validation">
+                  <span class="input-group-text" id="inputGroupPrepend">
+                    <i class="itens bi bi-lock-fill"></i>
+                  </span>
+                  <input type="password" class="form-control" id="validationCustomUsername"
+                    aria-describedby="inputGroupPrepend" required placeholder="Senha" />
+                </div>
+              </div>
+            </div>
               <div class="row py-3">
                   <div class="col">
                     <a href="#">
