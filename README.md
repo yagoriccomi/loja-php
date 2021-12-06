@@ -43,5 +43,10 @@ Markdown02 | Markdown12 | Markdown22
 Markdown03 | Markdown13 | Markdown23
 Markdown04 | Markdown14 | Markdown24
 
+`Markdown.Markdown`
 
+```
+Markdown = Markdown(Markdown);
+Markdown = Markdown++;
 
+```
