@@ -21,7 +21,7 @@
     ?>
 
     <div class="container margin-menu">
-        <h1>Hello Word!!</h1>
+        <h1>Cadastrar Produtos</h1>
         <form action="register.php" method="post" class="needs-validation" novalidate>
             <div class="row">
               <div class="col">
