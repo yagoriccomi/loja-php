@@ -3,8 +3,15 @@
 
 body {
   font-family: "Public Sans", sans-serif;
+  
 }
 
 .rigth {
     float: right;
   }
+
+.input-group-text {
+    border-radius: 0.25rem 0rem 0rem 0.25rem;
+}
+
+

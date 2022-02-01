@@ -8,18 +8,11 @@
 }
 
 .margin-menu {
-  margin-left: 12%;
   margin-top: 1rem;
-  padding-left: 3rem;
-  padding-right: 3rem;
+  padding-left: 90px;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  /*
-  border-width: 0.1rem;
-  border-style: solid;
-  border-color: rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
-  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);*/
+  max-width: 1000px;
 }
 
 .sidebar {

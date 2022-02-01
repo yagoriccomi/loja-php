@@ -24,6 +24,7 @@
         <ul class="sub-menu">
           <li><a class="link_name" href="#">Cadastrar</a></li>
           <li><a href="#">Cliente</a></li>
+          <li><a href="#">Fornecedor</a></li>
           <li><a href="#">Produto</a></li>
         </ul>
       </li>

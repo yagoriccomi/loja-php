@@ -23,33 +23,78 @@
     <div class="container margin-menu">
         <h1>Cadastrar Produtos</h1>
         <form action="register.php" method="post" class="needs-validation" novalidate>
-            <div class="row">
+            <div class="row py-2">
               <div class="col">
                 <div class="input-group has-validation">
                   <span class="input-group-text" id="inputGroupPrepend">
-                    <i class="itens bi bi-person-fill"></i>
+                  <i class="itens bi bi-pencil-fill"></i>
                   </span>
-                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" required placeholder="Usuário" />
+                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" required placeholder="Nome" />
                 </div>
               </div>
               <div class="col">
                 <div class="input-group has-validation">
                   <span class="input-group-text" id="inputGroupPrepend">
-                    <i class="itens bi bi-lock-fill"></i>
+                    <i class="itens bi bi-house-fill"></i>
                   </span>
-                  <input type="password" class="form-control" id="validationCustomUsername"
-                    aria-describedby="inputGroupPrepend" required placeholder="Senha" />
+                  <input type="text" class="form-control" id="validationCustomUsername"
+                    aria-describedby="inputGroupPrepend" required placeholder="Fornecedor" />
                 </div>
                 
               </div>
             </div>
-            <div class="row py-3">
+            <div class="row py-2">
               <div class="col">
                 <div class="input-group has-validation">
                   <span class="input-group-text" id="inputGroupPrepend">
-                    <i class="itens bi bi-person-fill"></i>
+                    <i class="itens bi bi-piggy-bank-fill"></i>
                   </span>
-                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" required placeholder="Usuário" />
+                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" required placeholder="Custo" />
+                </div>
+              </div>
+              <div class="col">
+                <div class="input-group has-validation">
+                  <span class="input-group-text" id="inputGroupPrepend">
+                    <i class="itens bi bi-cash"></i>
+                  </span>
+                  <input type="text" class="form-control" id="validationCustomUsername"
+                    aria-describedby="inputGroupPrepend" required placeholder="Valor" />
+                </div>
+              </div>
+              <div class="col">
+                <div class="input-group has-validation">
+                  <span class="input-group-text" id="inputGroupPrepend">
+                    <i class="itens bi bi-bag-fill"></i>
+                  </span>
+                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" required placeholder="Estoque" />
+                </div>
+              </div>
+              <div class="col">
+                <div class="input-group has-validation">
+                  <span class="input-group-text" id="inputGroupPrepend">
+                    <i class="itens bi bi-bag-dash-fill"></i>
+                  </span>
+                  <input type="text" class="form-control" id="validationCustomUsername"
+                    aria-describedby="inputGroupPrepend" required placeholder="Estoque mínimo" />
+                </div>
+              </div>
+            </div>
+            <div class="row py-2">
+              <div class="col">
+                <div class="input-group has-validation">
+                  <span class="input-group-text" id="inputGroupPrepend">
+                    <i class="itens bi bi-bag-fill"></i>
+                  </span>
+                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" required placeholder="Estoque" />
+                </div>
+              </div>
+              <div class="col">
+                <div class="input-group has-validation">
+                  <span class="input-group-text" id="inputGroupPrepend">
+                    <i class="itens bi bi-bag-dash-fill"></i>
+                  </span>
+                  <input type="text" class="form-control" id="validationCustomUsername"
+                    aria-describedby="inputGroupPrepend" required placeholder="Estoque mínimo" />
                 </div>
               </div>
               <div class="col">
@@ -57,45 +102,18 @@
                   <span class="input-group-text" id="inputGroupPrepend">
                     <i class="itens bi bi-lock-fill"></i>
                   </span>
-                  <input type="password" class="form-control" id="validationCustomUsername"
-                    aria-describedby="inputGroupPrepend" required placeholder="Senha" />
-                </div>
-              </div>
-              <div class="col">
-                <div class="input-group has-validation">
-                  <span class="input-group-text" id="inputGroupPrepend">
-                    <i class="itens bi bi-lock-fill"></i>
-                  </span>
-                  <input type="password" class="form-control" id="validationCustomUsername"
+                  <input type="text" class="form-control" id="validationCustomUsername"
                     aria-describedby="inputGroupPrepend" required placeholder="Senha" />
                 </div>
               </div>
             </div>
-            <div class="row py-3">
+            <div class="row py-2">
               <div class="col">
                 <div class="input-group has-validation">
                   <span class="input-group-text" id="inputGroupPrepend">
-                    <i class="itens bi bi-person-fill"></i>
+                    <i class="itens bi bi-chat-square-text-fill"></i>
                   </span>
-                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" required placeholder="Usuário" />
-                </div>
-              </div>
-              <div class="col">
-                <div class="input-group has-validation">
-                  <span class="input-group-text" id="inputGroupPrepend">
-                    <i class="itens bi bi-lock-fill"></i>
-                  </span>
-                  <input type="password" class="form-control" id="validationCustomUsername"
-                    aria-describedby="inputGroupPrepend" required placeholder="Senha" />
-                </div>
-              </div>
-              <div class="col">
-                <div class="input-group has-validation">
-                  <span class="input-group-text" id="inputGroupPrepend">
-                    <i class="itens bi bi-lock-fill"></i>
-                  </span>
-                  <input type="password" class="form-control" id="validationCustomUsername"
-                    aria-describedby="inputGroupPrepend" required placeholder="Senha" />
+                  <input type="text" class="form-control" id="validationCustomUsername"                    aria-describedby="inputGroupPrepend" placeholder="Observação (opcional)" />
                 </div>
               </div>
             </div>
